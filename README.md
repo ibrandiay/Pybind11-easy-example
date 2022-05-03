@@ -4,7 +4,7 @@
 ## This repository contains a very simple example of using pybind
 
 ## usage :
-     $ mkdir build & cd build
+     $ mkdir build && cd build
      $ cmake ..
      $ make
 ## OUTPOUT : 

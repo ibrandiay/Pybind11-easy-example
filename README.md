@@ -9,6 +9,6 @@
      $ make
      
 ### execution:
-     ` python teste.py `
+     python teste.py
 ## OUTPOUT : 
       Addition and multiplication of two value

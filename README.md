@@ -7,5 +7,8 @@
      $ mkdir build && cd build
      $ cmake ..
      $ make
+     
+### execution:
+     ` python teste.py `
 ## OUTPOUT : 
       Addition and multiplication of two value
